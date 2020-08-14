@@ -13,18 +13,18 @@ Libraries Used:
 4. math
 
 ShortcutKeys:
-N-Go to second level
-W-Go to winning screen
-L-Go to Game Over Screen
-P-Go to level one
+1. N-Go to second level
+2. W-Go to winning screen
+3. L-Go to Game Over Screen
+4. P-Go to level one
 
 Keys Usage:
-Enter-Jump Back
-Space-Jump Front
-Up-Jump 
-Left/Right-Navigate left/right direction
-Down-Navigate inside the tunnel in level 1
-B-To hit the enemy
+1. Enter-Jump Back
+2. Space-Jump Front
+3. Up-Jump 
+4. Left/Right-Navigate left/right direction
+5. Down-Navigate inside the tunnel in level 1
+6. B-To hit the enemy
 
 Video link (Youtube): https://youtu.be/pYVB4SQzcPU
 
